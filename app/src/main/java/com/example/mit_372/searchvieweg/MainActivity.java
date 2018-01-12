@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
     SearchView editsearch;
     String[] animalNameList;
     ArrayList<AnimalNames> arraylist = new ArrayList<AnimalNames>();
+
+    String animalList="Cat,Tiger,Monkey";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
