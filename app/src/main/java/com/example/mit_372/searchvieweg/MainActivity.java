@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
         // Binds the Adapter to the ListView
         list.setAdapter(adapter);
 
-        System.out.print("Nice to meet u?");
+        System.out.print("Nice to meet u MYINT MYINT ZAW");
 
         // Locate the EditText in listview_main.xml
        // editsearch = (SearchView) findViewById(R.id.simpleSearchView);
